@@ -1,0 +1,13 @@
+current directory: /home/moringa/Desktop/Development/code/Phase-3/phase-3-active-record-translating-from-orm-to-ar/vendor/bundle/ruby/2.7.0/gems/json-1.8.6/ext/json
+/usr/share/rvm/rubies/ruby-2.7.4/bin/ruby -I /usr/share/rvm/rubies/ruby-2.7.4/lib/ruby/site_ruby/2.7.0 extconf.rb
+creating Makefile
+
+current directory: /home/moringa/Desktop/Development/code/Phase-3/phase-3-active-record-translating-from-orm-to-ar/vendor/bundle/ruby/2.7.0/gems/json-1.8.6/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20230222-133777-5orjib sitelibdir\=./.gem.20230222-133777-5orjib clean
+
+current directory: /home/moringa/Desktop/Development/code/Phase-3/phase-3-active-record-translating-from-orm-to-ar/vendor/bundle/ruby/2.7.0/gems/json-1.8.6/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20230222-133777-5orjib sitelibdir\=./.gem.20230222-133777-5orjib
+make: Nothing to be done for 'all'.
+
+current directory: /home/moringa/Desktop/Development/code/Phase-3/phase-3-active-record-translating-from-orm-to-ar/vendor/bundle/ruby/2.7.0/gems/json-1.8.6/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20230222-133777-5orjib sitelibdir\=./.gem.20230222-133777-5orjib install
